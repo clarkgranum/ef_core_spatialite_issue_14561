@@ -348,3 +348,4 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/SpatialiteCrash/SpatialiteCrash.Web/EFCoreGithubIssue14561.db
